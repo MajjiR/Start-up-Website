@@ -1,0 +1,281 @@
+.phone{
+    width: auto;
+    height: 35px;
+    padding-left: 70px;
+    padding-top:10px;
+}
+p{
+    display: inline;
+   vertical-align: bottom;
+   color:#d0d0d0;
+}
+nav{
+    width: auto;
+  height: 36px;
+    padding:0;
+    overflow: hidden;
+    background-color: #fff;
+}
+left{
+display: block;
+    height: 40px;
+    width:50px;
+   vertical-align: bottom;
+   color:#d0d0d0;
+ float:right;
+   padding-top: 15px;
+}
+.png{
+    width: 57px;
+    height: 36px;
+    padding-left: 10px;
+    padding-top:13px;
+        float:right;
+    vertical-align: bottom;
+    display: inline;
+    padding-right: 23px;
+}
+left:hover{
+    color:#ea4b69;
+}
+p:hover{
+       color:#ea4b69;
+}
+.calgary{
+    height:57px;
+    padding-left:54px;
+    
+}
+pink{
+   display: inline;     
+   height: 57px;
+
+   vertical-align: bottom;
+   color:#ef8e9f;
+   float: right;
+   padding-top: 15px;
+   padding-right: 23px;
+}
+tx{
+    display: inline;
+       height: auto;
+width: auto;
+   vertical-align: bottom;
+   color:#d0d0d0;
+ float:right;
+   padding-top: 15px;
+   padding-right: 23px;
+}
+t{
+    word-spacing: 10px;
+    width: auto;
+    display: inline;
+        height: 57px;
+    padding-top: 15px;
+        float: right;
+    color: #d0d0d0;
+    vertical-align: bottom;
+    padding-right: 23px;
+}
+menu{
+    width:100%;
+    height: 550px;
+   background-image: url("back.jpg") ;
+   background-size: 100% 600px;
+   background-repeat: no-repeat;
+}
+section{
+    height: 50px;
+}
+h2{
+    text-align: center;
+    padding-top: 125px;
+    width: auto;
+    color:#fff;
+    font-family:'Merriweather', sans-serif;
+      padding-left:10px;
+}
+haha{
+    text-align: center;
+    display: inline;
+    padding-top: 125px;
+    font-family: 'Merriweather',sans-serif;
+    color:#f37355;
+}
+h1{
+      text-align: center;
+    width: auto;
+    color:#fff;
+    font-family:'Merriweather', sans-serif;
+}
+.ok{
+    width: auto;
+    height: 50px;
+    font-family: 'Merriweather';
+    font-size:1px;
+    padding-top: 25px;
+    vertical-align: center;
+}
+text{
+    display: inline;
+    padding-top:25px;
+    font-family: 'Merriweather';
+    padding-left: 1px;
+    color:white;
+    vertical-align: bottom;
+}
+.button{
+    font-family: 'Merriweather';
+    border-radius: 40px;
+    vertical-align:bottom;
+    padding-top: 40px;
+    width: auto;
+    height: 35px;
+    text-align: center;
+}
+.buttone{
+        font-family: 'Merriweather';
+    border-radius: 90px;
+    vertical-align:bottom;
+    padding-top: 5px;
+    width: 200px;
+    height: 35px;
+    text-align: center;
+    border:none;
+    background: linear-gradient(221deg,#f77555,#e74e69);
+}
+secondmenu{
+    width: 100%;
+    height: 600px;
+}
+pinked{
+    color:#e74866;
+    font-family: 'Noto Sans',sans-serif;
+    text-align: center;
+    font-size: 33px;
+    vertical-align: bottom;
+    padding-top: 20px;
+}
+gray{
+    color:gray;
+    font-family: 'Noto Sans',sans-serif;
+    text-align: center;
+    vertical-align: bottom;
+    font-size: 17px;
+}
+.with{
+    margin: 10px;
+   text-align: center;
+}
+.plus{
+    width: auto;
+    height: 45px;
+margin-right: 4em;
+    padding-top:10px;
+ text-align: center;
+}
+.center{
+    text-align: center;
+    padding-left:5em;
+}
+.d{
+    text-align: center;
+}
+.third{
+    padding-top: 3em;
+   padding-right:2em;
+}
+.button1{
+    color:white;
+    background-color: #e94764;
+     font-family: 'Merriweather';
+     border: none;
+}
+.buttons{
+    color: gray;
+    background-color:#f5f5f5;
+     font-family: 'Merriweather';
+     border:none;
+}
+.buttons:hover{
+    background-color: #e94764;
+    color:white;
+    border:none;
+}
+.buttones{
+     font-family: 'Merriweather';
+    vertical-align:bottom;
+    padding-top: 40px;
+    width: auto;
+    height: 35px;
+    text-align: center;
+    padding-bottom: 6em;
+}
+.pinkus{
+    text-align: center;
+    font-family: 'Merriweather';
+    padding-top: 4em;
+    font-size: 2em;
+    padding-bottom: 3em;
+}
+thirdmenu{
+    background-color: #cccccc;
+    width: 100%;
+    height: 500px;
+}
+.bu{
+       color: gray;
+    background-color:#f5f5f5;
+     font-family: 'Merriweather';
+     border:none;
+     width: 10em;
+     height: 3em;
+}
+.bb{
+    text-align: center;
+}
+.cen{
+        background-color: #ea4c6a;
+        color:white;
+          font-family: 'Merriweather';    
+     width: 10em;
+     height: 3em;
+     border: none;
+}
+.bu:hover{   
+    color:white;
+    background: linear-gradient(to right, #43cea2, #185a9d);
+
+}
+.cen:hover{
+     color:white;
+    background: linear-gradient(to right, #43cea2, #185a9d);
+}
+.texto{
+    padding-top: 2em;
+    font-family: 'Merriweather';
+    padding-left: 1em;
+}
+.imagg{
+    display: inline;
+}
+.bell{
+    width: 17em;
+    height: 17em;
+    float:right;
+    padding-top: -5em;
+}
+h6{
+    display: inline;
+    text-align: left;
+    font-family: 'Merriweather';
+}
+.f{
+    display: inline;
+}
+lastmenu{
+        background-color: #cccccc;
+    width: 100%;
+    height: 100%;
+
+}
